@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Put comments here that give an overall description of what your functions do
 # 2 functions, 1 calculating the inverse, the other to cache the result 
 ## Write a short comment describing this function
 # 
